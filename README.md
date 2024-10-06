@@ -16,7 +16,7 @@ Join our Telegram Channel & group to stay updated and get instructions on how to
 
 - [AirdropAlertTrends - Channel](https://t.me/AIRDROPALERTTRENDS)
 - [QD FORUM - Group](https://t.me/QDforum)
-- [I recommend you use Share Our page ](https://t.me/addlist/3oHlY2NsIfdiMjc0)
+- [I recommend you Share Our page ](https://t.me/addlist/3oHlY2NsIfdiMjc0)
 - If you want to buy a Gadget or Sell at MRATOTECH, please DM us.
 
 ## 📢 Youtube Channel
