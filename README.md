@@ -52,7 +52,7 @@ pkg install python
 
 4. **Clone Repository or Copy Script::**
 ```
-git clone https://github.com/mraotech/tomarketApp.git 
+git clone https://github.com/mratotech/tomarketApp.git 
 ```
 4. **Change Directory:**
 ```
@@ -62,7 +62,7 @@ cd tomarket
 ```
 python -m pip install -r requirements.txt
 ```
-6.** Run the Script: **
+6.**Run the Script:**
 ```
 python bot.py
 ```
