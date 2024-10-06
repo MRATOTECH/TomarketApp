@@ -56,7 +56,7 @@ git clone https://github.com/mratotech/tomarketApp.git
 ```
 4. **Change Directory:**
 ```
-cd tomarket
+cd tomarketApp
 ```
 5. **Install Dependencies:**
 ```
