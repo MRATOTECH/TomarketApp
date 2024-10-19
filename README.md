@@ -1,10 +1,6 @@
 # Tomarket -  AUTO CLAIM FOR TOMARKET
 
-<div align="center">
-  <a href="#">
-    <img width="100%" height="auto" src="images/Tomarkets.webp" alt="Image" />
-  </a>
-</div>
+![Logo](images/ExperimentalSettings.png)
 
 🔗 **Buy & Sell Here** : [TELEGRAM HOT DEAL SHOP](https://t.me/THDShop)
 
@@ -74,6 +70,7 @@ python bot.py
 ```
 ## 🤖For PC user this is how you get the user_id or query_id from the Telegram Mini App .
 1.Open Telegram Goto Settings>Advanced>Eperimental Settings>Enable Webview Inspecting (Save and Restart)
+
 **Eperimental Settings**
 ![Eperimental Settings](images/ExperimentalSettings.png)
 
