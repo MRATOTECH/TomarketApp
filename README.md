@@ -73,7 +73,8 @@ python bot.py
 
 **Eperimental Settings**
 ![Eperimental Settings](images/ExperimentalSettings.png)
-
+**Enable Webview Inspecting **
+![Eperimental Settings](images/Webview.png)
 2.
 
 
@@ -98,6 +99,6 @@ python bot.py
 - AT CASH (AT GHANA): ```+233 579027980```
 
 ## Disclaimer⚠️:
-```
+
 This is a research project intended for educational purposes and testing in controlled environments only. I am not responsible for any misuse of this tool, including account bans or damages. Use it at your own risk. I do not endorse using malware, harmful software, or joke programs on your own or others' devices, as this can have serious consequences. Be cautious and avoid self-infection when working with malicious software.
-```
+
