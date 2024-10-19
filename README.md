@@ -102,7 +102,7 @@ Do it like the below image if it a single account.
 Do it like the below image if it a multple account.
 ![Multiple Accounts](images/multiple_accounts.png)
 
-## ⚠️ Bonus: You can run the script after without opening the Telegram Mini app game.
+## ⚠️ Bonus: You can run the script after your first run without opening the Telegram Mini app game.
 ![Bonus](images/bonus.png)
 
 
