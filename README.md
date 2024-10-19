@@ -93,7 +93,7 @@ Do it like the below image if it a single account.
 ![Eperimental Settings](images/single_account.png)
 
 Do it like the below image if it a multple account.
-![Eperimental Settings](images/mulitple_account.png)
+![Eperimental Settings](images/multiple_account.png)
 
 ## ⚠️ Bonus: You can run the script after without opening the Telegram Mini app game.
 
