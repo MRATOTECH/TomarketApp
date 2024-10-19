@@ -49,6 +49,8 @@ pkg upgrade
 3. **Instal Python:**
 ```
 pkg install python
+pkg install python-pip
+
 ```
 ## Note: Skip step 1. - 3. if your are using PC.
 
