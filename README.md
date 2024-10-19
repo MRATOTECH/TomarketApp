@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" height="auto" src="https://www.cryptotimes.io/wp-content/uploads/2024/09/image-3-1024x40.png" alt="Image" />
+    <img width="100%" height="auto" src="images/Tomarkets.webp" alt="Image" />
   </a>
 </div>
 
