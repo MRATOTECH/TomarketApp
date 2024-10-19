@@ -84,9 +84,12 @@ python bot.py
 ![Eperimental Settings](images/Webview.png)
 
 
-2.Righ Click Inside the MiniApp game and select Inspect and a pop up below will open the devtools.
+2.Righ Click Inside the MiniApp game and select Inspect and a pop up below will open the devtools>Application>Sessionstorage>SourceTarget.
 
 ![Eperimental Settings](images/query_id_value.png)
+
+Or
+Righ Click Inside the MiniApp game and select Inspect and a pop up below will open the devtools>Network>Ctrl+R>Look for {Login}.
 
 3. Copy the user_id or query_id value in the devtools. 
 example: ```user=%7B%22id%22%3A464801283%2C%22first_name%22%3A%22ADMIN%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22mratotech%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-6847577174321941422&chat_type=sender&start_param=Akn1NI&auth_date=1727993324&hash=0de1a28cd955c29aa2fae4302e3d7884d3d105f56d9e724af582751b007b7aa5```
