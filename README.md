@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" height="auto" src="https://www.cryptotimes.io/wp-content/uploads/2024/09/image-3-1024x405.png" alt="Image" />
+    <img width="100%" height="auto" src="https://www.cryptotimes.io/wp-content/uploads/2024/09/image-3-1024x40.png" alt="Image" />
   </a>
 </div>
 
@@ -72,6 +72,10 @@ python -m pip install -r requirements.txt
 ```
 python bot.py
 ```
+## 🤖For PC user this is how you get the user_id or query_id from the Telegram Mini App .
+1.Open Telegram Goto Settings>Advanced>Eperimental Settings>Enable Webview Inspecting (Save and Restart)
+2.
+
 
 | Run with Proxy                   | Run without Proxy   |
 | -------------------------------- | ------------------- |
