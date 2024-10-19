@@ -1,6 +1,6 @@
 # Tomarket -  AUTO CLAIM FOR TOMARKET
 
-![Logo](images/ExperimentalSettings.png)
+![Logo](images/logo.webp)
 
 🔗 **Buy & Sell Here** : [TELEGRAM HOT DEAL SHOP](https://t.me/THDShop)
 
