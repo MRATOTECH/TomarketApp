@@ -71,11 +71,31 @@ python bot.py
 ## 🤖For PC user this is how you get the user_id or query_id from the Telegram Mini App .
 1.Open Telegram Goto Settings>Advanced>Eperimental Settings>Enable Webview Inspecting (Save and Restart)
 
-**Eperimental Settings**
+
+#Eperimental Settings
+
 ![Eperimental Settings](images/ExperimentalSettings.png)
-**Enable Webview Inspecting **
+
+
+#Enable Webview Inspecting
+
 ![Eperimental Settings](images/Webview.png)
-2.
+
+
+2.Righ Click Inside the MiniApp game and select Inspect and a pop up below will open the devtools.
+
+![Eperimental Settings](images/query_id_value.png)
+
+3. Copy the user_id or query value in the devtools. 
+example: ```user=%7B%22id%22%3A464801283%2C%22first_name%22%3A%22ADMIN%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22mratotech%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-6847577174321941422&chat_type=sender&start_param=Akn1NI&auth_date=1727993324&hash=0de1a28cd955c29aa2fae4302e3d7884d3d105f56d9e724af582751b007b7aa5```
+4. Paste it in the data.txt file
+Do it like the below image if it a single account.
+![Eperimental Settings](images/single_account.png)
+
+Do it like the below image if it a multple account.
+![Eperimental Settings](images/multiple_account.png)
+
+## ⚠️ Bonus: You can run the script after without opening the Telegram Mini app game.
 
 
 | Run with Proxy                   | Run without Proxy   |
